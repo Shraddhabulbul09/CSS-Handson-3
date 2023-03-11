@@ -1,0 +1,147 @@
+body{
+    background-image: url(./image\ g.jpg);
+    background-size: 2560px 1440px;
+}
+.one{
+    color:maroon;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    margin: 10px 20px 30px 40px;
+    height: 100px;
+    width: 500px;
+    border-radius: 5%;
+    margin-top: 50px;
+    position: relative;
+    left: 400px;
+    text-shadow: 2px 2px red;
+}
+.two{
+    color:black;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    /* margin: 10px 20px 30px 40px; */
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 1px; 
+    word-spacing: 5px;
+}
+.three{
+    /* color:maroon; */
+    background-color: white;
+    /* font-style: italic; */
+    border: 10px solid red;
+    /* text-align: center; */
+    /* margin: 10px 20px 30px 40px; */
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 2px;
+    position: absolute;
+    top: 30%;
+    right: 10%;
+   
+}
+.four{
+    color:black;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    /* margin: 10px 20px 30px 40px; */
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 100px;
+}
+.five{
+    color:black;
+    background-color: white;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    /* margin: 10px 20px 30px 40px; */
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-top: 50px;
+    position: absolute;
+    top: 67%;
+    right: 10%;
+   
+}
+.six{
+    color:red;
+    background-color: greenyellow;
+    font-style: italic;
+    border: 10px solid red;
+    text-align: center;
+    margin: 10px 20px 30px 40px;
+    height: 100px;
+    width: 400px;
+    border-radius: 5%;
+    margin-top: 100px;
+    position: fixed;
+    left: 500px;
+    top: 400px;
+}
+.seven{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+    margin: 20px 30px 40px 50px;
+    height: 200px;
+    width: 300px;
+    flex-direction:column;
+}
+.eight{
+    background-color:green;
+    border: 10px solid purple;
+    height: 500px;
+    width: 695px;
+    position: relative;
+    left: 25%;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+}
+.heading1{
+    color: black;
+    text-align: center;
+}
+.heading2{
+    border: 10px solid green;
+    padding: 0px;
+}
+.submit{
+    text-size-adjust: 50px;
+    text-shadow: 3px 3px  pink;
+}
+.welcome{
+    text-align: center;
+}
+.fruits{
+    float: left;
+    position: relative;
+    top: 1%;
+}
+.veges{
+    float: right;
+    position: absolute;
+    top:14%;
+    right: 1%;
+}
+.other{
+    clear: both;
+    position: relative;
+    width: 90%;
+    height: 35%;
+    top:0%;
+}
+.color{
+    background-color: red;
+}
